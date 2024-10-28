@@ -1,0 +1,1 @@
+print("Mera ghar kha h")
